@@ -6,20 +6,99 @@
 
 body {
 	font-size: 1em;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-family:Calibri;
 	background: #e6e6e6;
+}
+
+h1{
+	border: solid red 1px;
+	font-size: 70px;
+	text-align: center;
 }
 
 /*
 **** Formatações em geral ****
 */
 
+
+#visao1 {
+	margin: 0px 400px;
+}
+
+#texto-menor {
+	border: solid red 1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-size: 17px;
+
+}
+
+#historia{
+	margin-top: 100px;
+	width: 1903px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-size: 48px;
+}
+
+#principal{
+	width: 1903px;
+	border: solid red 1px;
+	position: center;
+	margin-left: 250px;
+	background-color: #FFF;
+}
+
 #homepage{
-	background-image: url('imagens/home_site.jpg');
-	background-repeat: no-repeat;
-	background-attachment: scroll;
-	width: 100%;
-	background-position: center;
+	border: solid red 1px;
+	text-align: center;
+}
+
+#subtitulo{
+	border: solid red 1px;
+	margin: 10px;
+	margin-top: 20px;
+	margin-bottom: 100px;
+	text-align: center;
+	font-size: 20px;
+	color: #999999;
+	font-family:Calibri;
+}
+
+#missao {
+	border: solid red 1px;
+	float: left;
+	width: 300px;	
+}
+
+#visao {
+	border: solid yellow 1px;
+	float: ;
+	text-align: center;
+	width: 300px;
+	
+}
+
+#valores{
+	border: solid red 1px;
+	float: right;
+	width: 300px;
+ 
+}
+
+.descricao{
+	background-color: #FFF;
+	padding: 5px;
+	width: 280px;
+	margin: 0px 0px 0px 260px;
+
+	float: left;
+	text-align: center;
+}
+
+.backgorund-branco{
+
+	background-color: white;
 }
 
 .branco{
