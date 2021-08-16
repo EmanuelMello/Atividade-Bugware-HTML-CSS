@@ -44,7 +44,6 @@ h1{
 	width: 1903px;
 	border: solid red 1px;
 	position: center;
-	margin-left: 250px;
 	background-color: #FFF;
 }
 
@@ -78,6 +77,44 @@ h1{
 	float: right;
 	width: 300px;
  
+}
+
+#img-background{
+	background-image: url('imagens/635703-1.jpg');
+	background-size: 1903px;
+	background-repeat: no-repeat;
+	margin-top: 500px;
+}
+
+#frase-motivacional{
+	border: solid red 1px;
+	text-align: center;
+}
+
+#frase{
+	text-align: center;
+	position: relative;
+	font-family:  Arial Black;
+	font-size: 55px;
+	color: #FFF;
+}
+
+#assinatura{
+	margin-top: 20px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 25px;
+	color: #FFF;
+}
+
+#yoda{
+	width: 60px;
+	margin-left: 925px;
+	margin-top: 12px;
+}
+
+.clear {
+	clear: both;
 }
 
 .descricao{
