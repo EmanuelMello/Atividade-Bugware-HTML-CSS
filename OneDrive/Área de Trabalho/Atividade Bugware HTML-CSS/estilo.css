@@ -7,7 +7,7 @@
 body {
 	font-size: 1em;
 	font-family:Calibri;
-	background: #e6e6e6;
+	background: #FFF;
 }
 
 h1{
@@ -26,7 +26,6 @@ h1{
 }
 
 #texto-menor {
-	border: solid red 1px;
 	text-align: center;
 	font-family: Segoe UI;
 	font-size: 17px;
@@ -50,12 +49,10 @@ h1{
 }
 
 #homepage{
-	border: solid red 1px;
 	text-align: center;
 }
 
 #subtitulo{
-	border: solid red 1px;
 	margin: 10px;
 	margin-top: 20px;
 	margin-bottom: 100px;
@@ -66,13 +63,11 @@ h1{
 }
 
 #missao {
-	border: solid red 1px;
 	float: left;
 	width: 300px;	
 }
 
 #visao {
-	border: solid yellow 1px;
 	float: ;
 	text-align: center;
 	width: 300px;
@@ -80,7 +75,6 @@ h1{
 }
 
 #valores{
-	border: solid red 1px;
 	float: right;
 	width: 300px;
  
@@ -91,16 +85,25 @@ h1{
 	padding: 5px;
 	width: 280px;
 	margin: 0px 0px 0px 260px;
-
 	float: left;
 	text-align: center;
 }
 
 .backgorund-branco{
-
 	background-color: white;
 }
 
 .branco{
 	color: white;
+}
+
+.icone {
+  color:  #A7FBD3;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.subtexto{
+	color: #999999;
+	font-family:Calibri;
 }
